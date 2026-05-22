@@ -1,4 +1,4 @@
-# Retail-SaBusiness Insights & Sales Analysis Using Superstore Dataset;
+# Retail-Sales Business Insights & Sales Analysis Using Superstore Dataset;
 
 auther: shivansh sharma
 
@@ -50,6 +50,12 @@ This dataset represents a typical retail environment and is suitable for sales a
 ### Programming Language
 
 * Python
+
+* Dashboard screenshot
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-23 at 1 31 14 AM" src="https://github.com/user-attachments/assets/9c9aad11-f21c-4610-a7d3-814c80a5734d" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-23 at 1 31 15 AM (1)" src="https://github.com/user-attachments/assets/a2066a93-b6b0-434f-a204-c3072f986f47" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-23 at 1 31 14 AM (1)" src="https://github.com/user-attachments/assets/7779091e-55da-44dc-bfd2-1328563d0866" />
+
 
 ### Libraries / Frameworks
 
