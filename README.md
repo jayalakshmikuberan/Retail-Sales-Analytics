@@ -41,11 +41,12 @@ The dataset used in this project contains retail transaction and inventory-relat
 * Quantity sold and revenue values
 * Inventory and stock-related attributes
 
+
 This dataset represents a typical retail environment and is suitable for sales and inventory analysis.
 
 ---
 
-## Tools & Technologies Used
+## Tools & Technologies used
 
 ### Programming Language
 
@@ -57,7 +58,7 @@ This dataset represents a typical retail environment and is suitable for sales a
 <img width="1600" height="900" alt="WhatsApp Image 2026-05-23 at 1 31 14 AM (1)" src="https://github.com/user-attachments/assets/7779091e-55da-44dc-bfd2-1328563d0866" />
 
 
-### Libraries / Frameworks
+### Libraries And Frameworks
 
 * Pandas – data manipulation and analysis
 * NumPy – numerical operations
